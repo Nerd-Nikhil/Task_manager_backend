@@ -1,0 +1,8 @@
+PATCH http://localhost:3003/tasks
+Content-Type: application/json
+
+{
+    "_id": "69b05dab22e9582f09d393c4",
+    "title":"i love gaming",
+    "priority":"high"
+}  
