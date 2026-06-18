@@ -15,11 +15,11 @@
   "type": "commonjs",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "cross-env NODE_ENV=development nodemon src/index.js",
-    "staging": "cross-env NODE_ENV=staging src/index.js",
-    "start": "cross-env NODE_ENV=production nodemon src/index.js"
-  },
+  "test": "echo \"Error: no test specified\" && exit 1",
+  "dev": "cross-env NODE_ENV=development nodemon src/index.js",
+  "staging": "cross-env NODE_ENV=staging nodemon src/index.js",
+  "start": "cross-env NODE_ENV=production node src/index.js"
+},
   "dependencies": {
     "bcrypt": "^6.0.0",
     "cors": "^2.8.6",
