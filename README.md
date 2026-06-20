@@ -4,7 +4,7 @@ A scalable RESTful API built with Node.js, Express.js, and MongoDB that powers t
 
 ## Live API
 
-🔗 Add your Render deployment URL here
+🔗 
 
 ---
 
@@ -99,7 +99,7 @@ src/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/Nerd-Nikhil/backend.git
+git clone https://github.com/Nerd-Nikhil/Task_manager_backend
 ```
 
 ### Navigate to Project
